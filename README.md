@@ -19,6 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 👀 Visitor's Count
-![Visitor Count](https://profile-counter.glitch.me/Vikrant0207/count.svg)
-
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Vikrant0207/count.svg"/>
+  </div> 
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
