@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vikrant0207&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👀 Visitor's Count
+![Visitor Count](https://profile-counter.glitch.me/Vikrant0207/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
