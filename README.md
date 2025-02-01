@@ -19,6 +19,7 @@ Connect With Me
     
   </p>
 </div>  
+<br>
 
 # 💻 Tech Stack:
 | Categories       | Badges |
