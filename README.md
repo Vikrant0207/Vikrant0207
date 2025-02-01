@@ -1,10 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on building my career<br>👯 I’m looking to collaborate on backend programming<br>🤝 I’m looking for help with learning new languages<br>🌱 I’m currently learning more about blockchain<br>💬 Ask me about web dev and little bit of backend programming<br>⚡ I like listening musics and playing games
+🔭 I’m currently working on building my career<br>
+👯 I’m looking to collaborate on backend programming<br>
+🤝 I’m looking for help with learning new languages<br>
+🌱 I’m currently learning more about blockchain<br>
+💬 Ask me about web dev and little bit of backend programming<br>
+⚡ I like listening musics and playing games
 
 
 ##
 <div id="hey" align="center">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
   <h1>
 Connect With Me 
   </h1>
