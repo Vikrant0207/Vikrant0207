@@ -1,12 +1,17 @@
 #
 <div id="hey" align="center">
+<h1>
  💫 About Me:
+</h1>
+
+<p>
 🔭 I’m currently working on building my career<br>
 👯 I’m looking to collaborate on backend programming<br>
 🤝 I’m looking for help with learning new languages<br>
 🌱 I’m currently learning more about blockchain<br>
 💬 Ask me about web dev and little bit of backend programming<br>
 ⚡ I like listening musics and playing games
+</p>
 
 
 ##
