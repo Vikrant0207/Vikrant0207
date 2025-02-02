@@ -71,5 +71,6 @@ Languages & Tools
   <div align="center">
     <img src="https://profile-counter.glitch.me/Vikrant0207/count.svg"/>
   </div> 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
