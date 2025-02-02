@@ -1,4 +1,6 @@
-# 💫 About Me:
+#
+<div id="hey" align="center">
+ 💫 About Me:
 🔭 I’m currently working on building my career<br>
 👯 I’m looking to collaborate on backend programming<br>
 🤝 I’m looking for help with learning new languages<br>
@@ -27,7 +29,6 @@ Connect With Me
 <br>
 
 ##
-<div id="hey" align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
   <h1>
 Languages & Tools 
