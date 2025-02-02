@@ -4,7 +4,7 @@
  💫 About Me:
 </h1>
 
-<p>
+<p align="left">
 🔭 I’m currently working on building my career<br>
 👯 I’m looking to collaborate on backend programming<br>
 🤝 I’m looking for help with learning new languages<br>
