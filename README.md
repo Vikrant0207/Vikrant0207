@@ -17,7 +17,6 @@
 💬 Ask me about web dev and little bit of backend programming<br>
 ⚡ I like listening musics and playing games
 </p>
-</div>
 
 ##
 <div id="hey" align="center">
