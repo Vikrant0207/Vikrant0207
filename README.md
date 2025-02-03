@@ -5,6 +5,7 @@
   <h1>
     💫 About Me:
   </h1>
+  <br>
 
   <p align="left">
     🔭 I’m currently working on building my career<br>
