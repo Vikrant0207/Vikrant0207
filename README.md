@@ -1,21 +1,19 @@
 <div id="hey" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000px">
 
+  #
+  <h1>
+    💫 About Me:
+  </h1>
 
-#
-
-<h1>
- 💫 About Me:
-</h1>
-
-<p align="left">
-🔭 I’m currently working on building my career<br>
-👯 I’m looking to collaborate on backend programming<br>
-🤝 I’m looking for help with learning new languages<br>
-🌱 I’m currently learning more about blockchain<br>
-💬 Ask me about web dev and little bit of backend programming<br>
-⚡ I like listening musics and playing games
-</p>
+  <p align="left">
+    🔭 I’m currently working on building my career<br>
+    👯 I’m looking to collaborate on backend programming<br>
+    🤝 I’m looking for help with learning new languages<br>
+    🌱 I’m currently learning more about blockchain<br>
+    💬 Ask me about web dev and little bit of backend programming<br>
+    ⚡ I like listening musics and playing games
+  </p>
 </div>
 
 ##
