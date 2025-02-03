@@ -67,11 +67,11 @@ Languages & Tools
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vikrant0207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vikrant0207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
 ### 👀 Visitor's Count
