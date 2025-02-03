@@ -1,10 +1,10 @@
 <div id="hey" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="1000px">
-</div>
+
 <br>
 
 #
-<div id="hey" align="center">
+
 <h1>
  💫 About Me:
 </h1>
@@ -17,6 +17,7 @@
 💬 Ask me about web dev and little bit of backend programming<br>
 ⚡ I like listening musics and playing games
 </p>
+</div>
 
 ##
 <div id="hey" align="center">
