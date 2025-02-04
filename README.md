@@ -70,23 +70,20 @@ Languages & Tools
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vikrant0207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-### 👀 Visitor's Count
+## 👀 Visitor's Count
   <div align="center">
     <img src="https://profile-counter.glitch.me/Vikrant0207/count.svg"/>
   </div> 
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 ##
 <br>
-<div align="center">
+
   <h1>
     📅 Contribution Calendar
   </h1>
