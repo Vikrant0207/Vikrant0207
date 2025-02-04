@@ -85,7 +85,7 @@ Languages & Tools
 
 
 ##
-<div align="centre">
+<div align="center">
   <h1>
     📅 Contribution Calendar
   </h1>
