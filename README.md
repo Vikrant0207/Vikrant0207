@@ -69,6 +69,15 @@ Languages & Tools
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vikrant0207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
+## 🎖️ Badges
+<details>
+  <summary>Click to view badges</summary>
+# Hacktoberfest 2024 Badges 🛠️
+
+ [![Holopin badges](https://holopin.me/vikrant0207)](https://holopin.io/@vikrant0207)
+
+</details>
+
 ## ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
