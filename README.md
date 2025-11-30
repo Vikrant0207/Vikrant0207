@@ -66,6 +66,8 @@ Languages & Tools
   </span>
 </div>
 
+ [![vikrantkumarmehta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikrant0207&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Vikrant0207/github-readme-activity-graph)<br><br>
+
 </p>
 
 ## 🏆 GitHub Trophies
