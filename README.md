@@ -59,7 +59,7 @@ Languages & Tools
 <br>
 
 <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Vikrant0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vikrant0207&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </span>
 <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikrant0207&theme=react&hide" alt="Most Commit Language" />
