@@ -70,12 +70,8 @@ Languages & Tools
 <br>
 
 ## 🎖️ Badges
-<details>
 <b>Hacktoberfest 2024 Badges 🛠️</b>
-
  [![Holopin badges](https://holopin.me/vikrant0207)](https://holopin.io/@vikrant0207)
-
-</details>
 
 ## ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
