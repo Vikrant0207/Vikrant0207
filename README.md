@@ -71,7 +71,6 @@ Languages & Tools
 
 ## 🎖️ Badges
 # Hacktoberfest 2024 Badges 🛠️
-<br>
  [![Holopin badges](https://holopin.me/vikrant0207)](https://holopin.io/@vikrant0207)
 
 ## ✍️ Random Dev Quote
