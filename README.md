@@ -16,7 +16,7 @@
     ⚡ I like listening musics and playing games
   </p>
 
-##
+#
 <div id="hey" align="center">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
   <h1>
@@ -34,7 +34,7 @@ Connect With Me
   </p>
 </div>  
 
-##
+#
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
   <h1>
 Languages & Tools 
@@ -70,19 +70,19 @@ Languages & Tools
 
 </p>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vikrant0207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
-## 🎖️ Badges
-# Hacktoberfest 2024 Badges 🛠️
+# 🎖️ Badges
+## Hacktoberfest 2024 Badges 🛠️
  [![Holopin badges](https://holopin.me/vikrant0207)](https://holopin.io/@vikrant0207)
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-## 👀 Visitor's Count
+# 👀 Visitor's Count
   <div align="center">
     <img src="https://profile-counter.glitch.me/Vikrant0207/count.svg"/>
   </div> 
