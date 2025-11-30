@@ -59,12 +59,6 @@ Languages & Tools
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Vikrant0207&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </span>
-  <span>
-    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant0207&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </span>
-  <span>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Vikrant0207&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   </span>
   <span>
