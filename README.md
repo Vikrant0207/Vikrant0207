@@ -64,7 +64,6 @@ Languages & Tools
 <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikrant0207&theme=react&hide" alt="Most Commit Language" />
   </span>
-|--|--|
 
 </p>
 
