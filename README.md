@@ -58,7 +58,7 @@ Languages & Tools
 # 📊 GitHub Stats:
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikrant0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrant0207&theme=dark&hide_border=false"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Vikrant0207&theme=dark&hide_border=false&include_all_commits=false&count_private=false">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrant0207&theme=dark&hide_border=false"/>-->
 |---|---|
 
 <span>
