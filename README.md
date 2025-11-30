@@ -65,7 +65,7 @@ Languages & Tools
     <img src="https://nirzak-streak-stats.vercel.app/?user=Vikrant0207&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikrant0207&theme=react&hide" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikrant0207&theme=react&hide_border=false" alt="Most Commit Language" />
   </span>
 </div>
 
