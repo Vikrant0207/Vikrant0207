@@ -71,8 +71,7 @@ Languages & Tools
 
 ## 🎖️ Badges
 <details>
-  <summary>Click to view badges</summary>
-# Hacktoberfest 2024 Badges 🛠️
+<b>Hacktoberfest 2024 Badges 🛠️</b>
 
  [![Holopin badges](https://holopin.me/vikrant0207)](https://holopin.io/@vikrant0207)
 
