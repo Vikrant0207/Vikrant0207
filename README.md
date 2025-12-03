@@ -83,9 +83,9 @@ Languages & Tools
 <br>
 
 # 👀 Visitor's Count
-<div aign='centre'>
+<!--<div aign='centre'>
   ![](https://komarev.com/ghpvc/?username=Vikrant0207&label=PROFILE+VIEWS)
-</div>
+</div>-->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vikrant0207/count.svg"/>
 </div> 
